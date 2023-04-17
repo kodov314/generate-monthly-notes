@@ -33,13 +33,21 @@ Each generated note will have the following format:
 [ ]
 ##### WORK TASKS
 [ ]
+
 ==edit==
+
 ==edit==
+
 ==edit==
+
 ==edit==
+
 ==edit==
+
 ==edit==
+
 ==edit==
+
 ==edit==
 
 
