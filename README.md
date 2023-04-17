@@ -1,0 +1,1 @@
+# generate-monthly-notes-plugin
