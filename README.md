@@ -51,4 +51,4 @@ Each generated note will have the following format:
 ==edit==
 
 
-You can now navigate to the "Monthly Notes Plugin" folder in your Obsidian file explorer and start using the generated notes.
+## You can now navigate to the "Monthly Notes Plugin" folder in your Obsidian file explorer and start using the generated notes.
