@@ -1,7 +1,7 @@
 {
-  "id": "generate-monthly-notes-plugin",
-  "name": "Monthly Notes Plugin",
-  "version": "0.0.1",
+  "id": "generate-monthly-notes",
+  "name": "Monthly Notes Generator",
+  "version": "1.0.0",
   "minAppVersion": "0.15.0",
   "description": "A generator of monthly notes plugin for Obsidian.",
   "author": "kodov314",
